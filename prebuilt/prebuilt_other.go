@@ -1,4 +1,4 @@
-//go:build !((linux || windows) && amd64) && !(linux && arm)
+//go:build !((linux || windows) && amd64) && !(linux && arm) && !(darwin && arm64)
 
 package prebuilt
 
