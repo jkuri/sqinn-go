@@ -6,7 +6,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/cvilsmeier/sqinn-go/v2"
+	"github.com/jkuri/sqinn-go/v2"
 )
 
 func main() {
