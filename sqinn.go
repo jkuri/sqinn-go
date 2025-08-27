@@ -17,7 +17,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/cvilsmeier/sqinn-go/v2/prebuilt"
+	"github.com/jkuri/sqinn-go/v2/prebuilt"
 )
 
 // Options for launching a sqinn instance.
